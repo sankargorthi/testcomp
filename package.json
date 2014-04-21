@@ -5,7 +5,7 @@
     "grunt": "^0.4.4",
     "component": "^0.19.8",
     "grunt-component-build": "^0.4.3",
-    "component-builder-handlebars": "^0.3.0",
+    "component-builder-handlebars": "https://github.com/sankargorthi/component-builder-handlebars/tarball/1949815f73d4c6dfd8ddf62adf5e84502b306b23",
     "load-grunt-tasks": "^0.4.0"
   }
 }
