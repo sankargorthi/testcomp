@@ -1,9 +1,6 @@
 {
   "name": "testcomp",
   "version": "0.0.1",
-  "devDependencies": {
-    "grunt": "^0.4.4"
-  },
   "dependencies": {
     "grunt": "^0.4.4",
     "component": "^0.19.8",
