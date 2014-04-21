@@ -1,0 +1,8 @@
+{
+    "name": "testcomp",
+    "version": "0.0.1",
+    "templates": [
+        "test.hbs",
+        "test2.hbs"
+    ]
+}

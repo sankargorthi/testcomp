@@ -1,0 +1,14 @@
+{
+  "name": "testcomp",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "^0.4.4"
+  },
+  "dependencies": {
+    "grunt": "^0.4.4",
+    "component": "^0.19.8",
+    "grunt-component-build": "^0.4.3",
+    "component-builder-handlebars": "^0.3.0",
+    "load-grunt-tasks": "^0.4.0"
+  }
+}
